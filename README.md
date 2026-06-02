@@ -1,4 +1,4 @@
-# 🎭 Real-Time Facial Emotion Detection System
+# 🎭 Real-Time Facial Emotion Detection System - BlinkVerify AI
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
